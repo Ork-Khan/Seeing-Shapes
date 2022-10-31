@@ -1,0 +1,5 @@
+Fig[0] Rectangle Area=8 Perimeter=12 ;(2,0) (2,4) (0,4) (0,0) 
+Fig[1] Circle Area=78.5398163397448 Perimeter=31.4159265358979 ;(0,0) (3,4) 
+Fig[2] Triangle Area=6 Perimeter=12 ;(3,0) (0,4) (0,0) 
+Fig[3] Rectangle Area=4 Perimeter=8 ;(5.5,4.5) (5.5,6.5) (3.5,6.5) (3.5,4.5) 
+Fig[4] Triangle Area=384 Perimeter=96 ;(18,-8) (-6,24) (-6,-8) 
